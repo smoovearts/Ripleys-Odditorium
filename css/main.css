@@ -1,0 +1,54 @@
+h1, h2 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+a  {
+	color: white;
+	background-color: #d9382b;
+
+}
+
+/*header {
+	padding: 5rem 0;
+}*/ 
+
+header img{
+	margin: 0 auto 17px auto;
+}
+
+.top-content {
+	background: #000 url(../img/ripleys.jpg) no-repeat 50% 50%;
+	background-size: cover;
+	padding: 2.2rem 0;
+}
+.feature {
+	padding: 5.6rem 0;
+}
+
+.transition {
+	background-color: #D0B46F;
+	padding: 1rem 0;
+}
+
+body .body{
+	background-color: #d9382b;
+	padding: 5rem 0;
+}
+
+.transitionimg {
+	background-color: #81B4C2;
+	padding: 1rem 0;
+}
+
+footer {
+	background-color: #d9382b;
+	padding: 3rem;
+}
+
+.visitustodayimg {
+	background-color: #D0B46F;
+}
